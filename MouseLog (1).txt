@@ -1,0 +1,363 @@
+2023-12-03 16:03:31,514: running "pil" in child process
+2023-12-03 16:03:31,517: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotfke37asd\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:03:31,529: process was started (pid=4620)
+2023-12-03 16:03:32,306: process has ended, return code=0
+2023-12-03 16:03:32,307: stdout=
+2023-12-03 16:03:32,307: stderr=
+2023-12-03 16:03:32,346: STREAM b'IHDR' 16 13
+2023-12-03 16:03:32,346: STREAM b'IDAT' 41 65536
+2023-12-03 16:11:15,154: running "pil" in child process
+2023-12-03 16:11:15,157: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotxyo4xmn3\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:11:15,173: process was started (pid=21564)
+2023-12-03 16:11:16,261: process has ended, return code=0
+2023-12-03 16:11:16,262: stdout=
+2023-12-03 16:11:16,262: stderr=
+2023-12-03 16:11:16,320: STREAM b'IHDR' 16 13
+2023-12-03 16:11:16,323: STREAM b'IDAT' 41 65536
+2023-12-03 16:12:10,481: running "pil" in child process
+2023-12-03 16:12:10,486: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot24unlfbc\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:12:10,504: process was started (pid=13620)
+2023-12-03 16:12:11,219: process has ended, return code=0
+2023-12-03 16:12:11,219: stdout=
+2023-12-03 16:12:11,219: stderr=
+2023-12-03 16:12:11,262: STREAM b'IHDR' 16 13
+2023-12-03 16:12:11,262: STREAM b'IDAT' 41 65536
+2023-12-03 16:12:43,111: running "pil" in child process
+2023-12-03 16:12:43,112: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot9npyhuc8\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:12:43,120: process was started (pid=620)
+2023-12-03 16:12:43,762: process has ended, return code=0
+2023-12-03 16:12:43,762: stdout=
+2023-12-03 16:12:43,762: stderr=
+2023-12-03 16:12:43,778: STREAM b'IHDR' 16 13
+2023-12-03 16:12:43,778: STREAM b'IDAT' 41 65536
+2023-12-03 16:13:16,037: running "pil" in child process
+2023-12-03 16:13:16,038: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotqi64ih_2\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:13:16,063: process was started (pid=19284)
+2023-12-03 16:13:17,579: process has ended, return code=0
+2023-12-03 16:13:17,579: stdout=
+2023-12-03 16:13:17,579: stderr=
+2023-12-03 16:13:17,597: STREAM b'IHDR' 16 13
+2023-12-03 16:13:17,597: STREAM b'IDAT' 41 65536
+2023-12-03 16:13:50,689: running "pil" in child process
+2023-12-03 16:13:50,690: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot6ehptvs0\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:13:50,700: process was started (pid=17272)
+2023-12-03 16:13:51,256: process has ended, return code=0
+2023-12-03 16:13:51,256: stdout=
+2023-12-03 16:13:51,257: stderr=
+2023-12-03 16:13:51,275: STREAM b'IHDR' 16 13
+2023-12-03 16:13:51,275: STREAM b'IDAT' 41 65536
+2023-12-03 16:14:52,861: running "pil" in child process
+2023-12-03 16:14:52,864: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot0fcafzkm\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:14:52,877: process was started (pid=26356)
+2023-12-03 16:14:53,719: process has ended, return code=0
+2023-12-03 16:14:53,719: stdout=
+2023-12-03 16:14:53,719: stderr=
+2023-12-03 16:14:53,755: STREAM b'IHDR' 16 13
+2023-12-03 16:14:53,755: STREAM b'IDAT' 41 65536
+2023-12-03 16:15:22,224: running "pil" in child process
+2023-12-03 16:15:22,225: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotjtspsatx\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:15:22,241: process was started (pid=20440)
+2023-12-03 16:15:22,968: process has ended, return code=0
+2023-12-03 16:15:22,969: stdout=
+2023-12-03 16:15:22,969: stderr=
+2023-12-03 16:15:22,984: STREAM b'IHDR' 16 13
+2023-12-03 16:15:22,985: STREAM b'IDAT' 41 65536
+2023-12-03 16:15:52,197: running "pil" in child process
+2023-12-03 16:15:52,198: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot4k1eaolu\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:15:52,210: process was started (pid=14324)
+2023-12-03 16:15:52,846: process has ended, return code=0
+2023-12-03 16:15:52,846: stdout=
+2023-12-03 16:15:52,846: stderr=
+2023-12-03 16:15:52,864: STREAM b'IHDR' 16 13
+2023-12-03 16:15:52,864: STREAM b'IDAT' 41 65536
+2023-12-03 16:16:42,550: running "pil" in child process
+2023-12-03 16:16:42,554: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotd_6w9mej\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:16:42,565: process was started (pid=15272)
+2023-12-03 16:16:43,317: process has ended, return code=0
+2023-12-03 16:16:43,317: stdout=
+2023-12-03 16:16:43,317: stderr=
+2023-12-03 16:16:43,359: STREAM b'IHDR' 16 13
+2023-12-03 16:16:43,359: STREAM b'IDAT' 41 65536
+2023-12-03 16:17:12,527: running "pil" in child process
+2023-12-03 16:17:12,528: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot70hy__sq\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:17:12,546: process was started (pid=9708)
+2023-12-03 16:17:13,233: process has ended, return code=0
+2023-12-03 16:17:13,234: stdout=
+2023-12-03 16:17:13,234: stderr=
+2023-12-03 16:17:13,246: STREAM b'IHDR' 16 13
+2023-12-03 16:17:13,246: STREAM b'IDAT' 41 65536
+2023-12-03 16:17:43,493: running "pil" in child process
+2023-12-03 16:17:43,495: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot00xjwumc\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:17:43,510: process was started (pid=20280)
+2023-12-03 16:17:44,332: process has ended, return code=0
+2023-12-03 16:17:44,332: stdout=
+2023-12-03 16:17:44,332: stderr=
+2023-12-03 16:17:44,349: STREAM b'IHDR' 16 13
+2023-12-03 16:17:44,349: STREAM b'IDAT' 41 65536
+2023-12-03 16:20:59,354: running "pil" in child process
+2023-12-03 16:20:59,357: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot710iex7r\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:20:59,376: process was started (pid=21632)
+2023-12-03 16:21:00,110: process has ended, return code=0
+2023-12-03 16:21:00,110: stdout=
+2023-12-03 16:21:00,110: stderr=
+2023-12-03 16:21:00,145: STREAM b'IHDR' 16 13
+2023-12-03 16:21:00,145: STREAM b'IDAT' 41 65536
+2023-12-03 16:21:40,241: running "pil" in child process
+2023-12-03 16:21:40,242: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotz3ncl0j1\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:21:40,254: process was started (pid=16556)
+2023-12-03 16:21:40,786: process has ended, return code=0
+2023-12-03 16:21:40,787: stdout=
+2023-12-03 16:21:40,787: stderr=
+2023-12-03 16:21:40,800: STREAM b'IHDR' 16 13
+2023-12-03 16:21:40,800: STREAM b'IDAT' 41 65536
+2023-12-03 16:22:09,556: running "pil" in child process
+2023-12-03 16:22:09,556: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshoth5oxs4kk\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:22:09,568: process was started (pid=17776)
+2023-12-03 16:22:10,260: process has ended, return code=0
+2023-12-03 16:22:10,260: stdout=
+2023-12-03 16:22:10,260: stderr=
+2023-12-03 16:22:10,278: STREAM b'IHDR' 16 13
+2023-12-03 16:22:10,278: STREAM b'IDAT' 41 65536
+2023-12-03 16:24:12,171: running "pil" in child process
+2023-12-03 16:24:12,174: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot9m9y1bbr\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:24:12,193: process was started (pid=17944)
+2023-12-03 16:24:12,969: process has ended, return code=0
+2023-12-03 16:24:12,969: stdout=
+2023-12-03 16:24:12,970: stderr=
+2023-12-03 16:24:13,002: STREAM b'IHDR' 16 13
+2023-12-03 16:24:13,002: STREAM b'IDAT' 41 65536
+2023-12-03 16:25:19,085: running "pil" in child process
+2023-12-03 16:25:19,086: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotteupx4mu\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:25:19,096: process was started (pid=12740)
+2023-12-03 16:25:19,796: process has ended, return code=0
+2023-12-03 16:25:19,796: stdout=
+2023-12-03 16:25:19,797: stderr=
+2023-12-03 16:25:19,830: STREAM b'IHDR' 16 13
+2023-12-03 16:25:19,831: STREAM b'IDAT' 41 65536
+2023-12-03 16:25:55,058: running "pil" in child process
+2023-12-03 16:25:55,059: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotrk2zimsx\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:25:55,076: process was started (pid=3260)
+2023-12-03 16:25:55,662: process has ended, return code=0
+2023-12-03 16:25:55,662: stdout=
+2023-12-03 16:25:55,663: stderr=
+2023-12-03 16:25:55,671: STREAM b'IHDR' 16 13
+2023-12-03 16:25:55,671: STREAM b'IDAT' 41 65536
+2023-12-03 16:29:43,371: running "pil" in child process
+2023-12-03 16:29:43,373: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot0g5q5cy4\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:29:43,384: process was started (pid=2408)
+2023-12-03 16:29:44,101: process has ended, return code=0
+2023-12-03 16:29:44,101: stdout=
+2023-12-03 16:29:44,101: stderr=
+2023-12-03 16:29:44,139: STREAM b'IHDR' 16 13
+2023-12-03 16:29:44,139: STREAM b'IDAT' 41 65536
+2023-12-03 16:30:18,518: running "pil" in child process
+2023-12-03 16:30:18,520: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotrdb2ahy1\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:30:18,541: process was started (pid=24392)
+2023-12-03 16:30:19,470: process has ended, return code=0
+2023-12-03 16:30:19,470: stdout=
+2023-12-03 16:30:19,470: stderr=
+2023-12-03 16:30:19,490: STREAM b'IHDR' 16 13
+2023-12-03 16:30:19,490: STREAM b'IDAT' 41 65536
+2023-12-03 16:30:49,851: running "pil" in child process
+2023-12-03 16:30:49,852: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotn7ixj_5v\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:30:49,871: process was started (pid=1240)
+2023-12-03 16:30:50,485: process has ended, return code=0
+2023-12-03 16:30:50,485: stdout=
+2023-12-03 16:30:50,485: stderr=
+2023-12-03 16:30:50,499: STREAM b'IHDR' 16 13
+2023-12-03 16:30:50,499: STREAM b'IDAT' 41 65536
+2023-12-03 16:31:19,924: running "pil" in child process
+2023-12-03 16:31:19,925: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot_khmf9hf\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:31:19,936: process was started (pid=12976)
+2023-12-03 16:31:20,621: process has ended, return code=0
+2023-12-03 16:31:20,621: stdout=
+2023-12-03 16:31:20,621: stderr=
+2023-12-03 16:31:20,632: STREAM b'IHDR' 16 13
+2023-12-03 16:31:20,632: STREAM b'IDAT' 41 65536
+2023-12-03 16:33:21,773: running "pil" in child process
+2023-12-03 16:33:21,774: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotgdqhzckl\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 16:33:21,781: process was started (pid=27408)
+2023-12-03 16:33:22,322: process has ended, return code=0
+2023-12-03 16:33:22,322: stdout=
+2023-12-03 16:33:22,323: stderr=
+2023-12-03 16:33:22,348: STREAM b'IHDR' 16 13
+2023-12-03 16:33:22,348: STREAM b'IDAT' 41 65536
+2023-12-03 17:15:40,873: running "pil" in child process
+2023-12-03 17:15:40,876: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshote74h4fbb\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 17:15:40,886: process was started (pid=12480)
+2023-12-03 18:49:21,044: running "pil" in child process
+2023-12-03 18:49:21,055: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotz8bjx7fq\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 18:49:21,070: process was started (pid=15324)
+2023-12-03 18:49:21,509: process has ended, return code=0
+2023-12-03 18:49:21,509: stdout=
+2023-12-03 18:49:21,509: stderr=
+2023-12-03 18:49:21,550: STREAM b'IHDR' 16 13
+2023-12-03 18:49:21,550: STREAM b'IDAT' 41 65536
+2023-12-03 18:49:58,953: running "pil" in child process
+2023-12-03 18:49:58,955: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotd_guh767\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 18:49:58,989: process was started (pid=8752)
+2023-12-03 18:49:59,406: process has ended, return code=0
+2023-12-03 18:49:59,406: stdout=
+2023-12-03 18:49:59,406: stderr=
+2023-12-03 18:49:59,416: STREAM b'IHDR' 16 13
+2023-12-03 18:49:59,417: STREAM b'IDAT' 41 65536
+2023-12-03 18:50:28,604: running "pil" in child process
+2023-12-03 18:50:28,606: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot8nszz2cr\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 18:50:28,629: process was started (pid=15948)
+2023-12-03 18:50:29,079: process has ended, return code=0
+2023-12-03 18:50:29,079: stdout=
+2023-12-03 18:50:29,079: stderr=
+2023-12-03 18:50:29,092: STREAM b'IHDR' 16 13
+2023-12-03 18:50:29,093: STREAM b'IDAT' 41 65536
+2023-12-03 18:51:03,295: running "pil" in child process
+2023-12-03 18:51:03,297: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshott1x113ve\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 18:51:03,319: process was started (pid=6164)
+2023-12-03 18:51:03,740: process has ended, return code=0
+2023-12-03 18:51:03,740: stdout=
+2023-12-03 18:51:03,740: stderr=
+2023-12-03 18:51:03,750: STREAM b'IHDR' 16 13
+2023-12-03 18:51:03,750: STREAM b'IDAT' 41 65536
+2023-12-03 19:59:52,775: running "pil" in child process
+2023-12-03 19:59:52,777: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot78v7grh0\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 19:59:52,793: process was started (pid=21900)
+2023-12-03 19:59:53,318: process has ended, return code=0
+2023-12-03 19:59:53,318: stdout=
+2023-12-03 19:59:53,318: stderr=
+2023-12-03 19:59:53,359: STREAM b'IHDR' 16 13
+2023-12-03 19:59:53,359: STREAM b'IDAT' 41 65536
+2023-12-03 20:00:23,338: running "pil" in child process
+2023-12-03 20:00:23,339: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotnx1xa0g8\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:00:23,358: process was started (pid=11764)
+2023-12-03 20:00:23,996: process has ended, return code=0
+2023-12-03 20:00:23,996: stdout=
+2023-12-03 20:00:23,996: stderr=
+2023-12-03 20:00:24,012: STREAM b'IHDR' 16 13
+2023-12-03 20:00:24,012: STREAM b'IDAT' 41 65536
+2023-12-03 20:00:53,771: running "pil" in child process
+2023-12-03 20:00:53,772: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotvxbhgoje\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:00:53,787: process was started (pid=14616)
+2023-12-03 20:00:54,469: process has ended, return code=0
+2023-12-03 20:00:54,469: stdout=
+2023-12-03 20:00:54,469: stderr=
+2023-12-03 20:00:54,480: STREAM b'IHDR' 16 13
+2023-12-03 20:00:54,480: STREAM b'IDAT' 41 65536
+2023-12-03 20:01:29,110: running "pil" in child process
+2023-12-03 20:01:29,113: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotsynj8dze\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:01:29,156: process was started (pid=8800)
+2023-12-03 20:01:30,387: process has ended, return code=0
+2023-12-03 20:01:30,388: stdout=
+2023-12-03 20:01:30,388: stderr=
+2023-12-03 20:01:30,409: STREAM b'IHDR' 16 13
+2023-12-03 20:01:30,409: STREAM b'IDAT' 41 65536
+2023-12-03 20:30:10,591: running "pil" in child process
+2023-12-03 20:30:10,594: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot2az6oadr\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:30:10,616: process was started (pid=11508)
+2023-12-03 20:30:11,197: process has ended, return code=0
+2023-12-03 20:30:11,197: stdout=
+2023-12-03 20:30:11,198: stderr=
+2023-12-03 20:30:11,229: STREAM b'IHDR' 16 13
+2023-12-03 20:30:11,229: STREAM b'IDAT' 41 65536
+2023-12-03 20:30:41,227: running "pil" in child process
+2023-12-03 20:30:41,228: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot9fhfrp0y\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:30:41,241: process was started (pid=5968)
+2023-12-03 20:30:41,830: process has ended, return code=0
+2023-12-03 20:30:41,830: stdout=
+2023-12-03 20:30:41,830: stderr=
+2023-12-03 20:30:41,841: STREAM b'IHDR' 16 13
+2023-12-03 20:30:41,841: STREAM b'IDAT' 41 65536
+2023-12-03 20:31:26,538: running "pil" in child process
+2023-12-03 20:31:26,541: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot9myqhhbk\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:31:26,560: process was started (pid=8540)
+2023-12-03 20:31:27,351: process has ended, return code=0
+2023-12-03 20:31:27,351: stdout=
+2023-12-03 20:31:27,351: stderr=
+2023-12-03 20:31:27,387: STREAM b'IHDR' 16 13
+2023-12-03 20:31:27,387: STREAM b'IDAT' 41 65536
+2023-12-03 20:31:57,153: running "pil" in child process
+2023-12-03 20:31:57,154: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotvtq3q6wh\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:31:57,173: process was started (pid=6896)
+2023-12-03 20:31:58,059: process has ended, return code=0
+2023-12-03 20:31:58,059: stdout=
+2023-12-03 20:31:58,059: stderr=
+2023-12-03 20:31:58,070: STREAM b'IHDR' 16 13
+2023-12-03 20:31:58,071: STREAM b'IDAT' 41 65536
+2023-12-03 20:32:26,731: running "pil" in child process
+2023-12-03 20:32:26,732: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot68q25ghu\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:32:26,752: process was started (pid=17480)
+2023-12-03 20:32:27,495: process has ended, return code=0
+2023-12-03 20:32:27,495: stdout=
+2023-12-03 20:32:27,496: stderr=
+2023-12-03 20:32:27,509: STREAM b'IHDR' 16 13
+2023-12-03 20:32:27,509: STREAM b'IDAT' 41 65536
+2023-12-03 20:33:09,855: running "pil" in child process
+2023-12-03 20:33:09,857: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot7s8xy2in\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:33:09,879: process was started (pid=7576)
+2023-12-03 20:33:11,185: process has ended, return code=0
+2023-12-03 20:33:11,186: stdout=
+2023-12-03 20:33:11,186: stderr=
+2023-12-03 20:33:11,224: STREAM b'IHDR' 16 13
+2023-12-03 20:33:11,225: STREAM b'IDAT' 41 65536
+2023-12-03 20:34:30,585: running "pil" in child process
+2023-12-03 20:34:30,588: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotn0cvjf0u\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:34:30,609: process was started (pid=22452)
+2023-12-03 20:34:32,034: process has ended, return code=0
+2023-12-03 20:34:32,035: stdout=
+2023-12-03 20:34:32,035: stderr=
+2023-12-03 20:34:32,075: STREAM b'IHDR' 16 13
+2023-12-03 20:34:32,076: STREAM b'IDAT' 41 65536
+2023-12-03 20:46:17,104: running "pil" in child process
+2023-12-03 20:46:17,108: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotnfzno82r\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:46:17,134: process was started (pid=5588)
+2023-12-03 20:46:17,786: process has ended, return code=0
+2023-12-03 20:46:17,786: stdout=
+2023-12-03 20:46:17,786: stderr=
+2023-12-03 20:46:17,836: STREAM b'IHDR' 16 13
+2023-12-03 20:46:17,837: STREAM b'IDAT' 41 65536
+2023-12-03 20:46:47,596: running "pil" in child process
+2023-12-03 20:46:47,597: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot2femo8jl\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:46:47,622: process was started (pid=12888)
+2023-12-03 20:46:48,600: process has ended, return code=0
+2023-12-03 20:46:48,601: stdout=
+2023-12-03 20:46:48,601: stderr=
+2023-12-03 20:46:48,617: STREAM b'IHDR' 16 13
+2023-12-03 20:46:48,617: STREAM b'IDAT' 41 65536
+2023-12-03 20:49:49,865: running "pil" in child process
+2023-12-03 20:49:49,869: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot6uf1mhl4\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:49:49,895: process was started (pid=12080)
+2023-12-03 20:49:50,834: process has ended, return code=0
+2023-12-03 20:49:50,834: stdout=
+2023-12-03 20:49:50,835: stderr=
+2023-12-03 20:49:50,933: STREAM b'IHDR' 16 13
+2023-12-03 20:49:50,934: STREAM b'IDAT' 41 65536
+2023-12-03 20:50:19,475: running "pil" in child process
+2023-12-03 20:50:19,476: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotrk8o2nq5\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:50:19,493: process was started (pid=20412)
+2023-12-03 20:50:20,416: process has ended, return code=0
+2023-12-03 20:50:20,417: stdout=
+2023-12-03 20:50:20,417: stderr=
+2023-12-03 20:50:20,437: STREAM b'IHDR' 16 13
+2023-12-03 20:50:20,437: STREAM b'IDAT' 41 65536
+2023-12-03 20:56:02,208: running "pil" in child process
+2023-12-03 20:56:02,211: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotrd77adzo\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:56:02,234: process was started (pid=12968)
+2023-12-03 20:56:03,023: process has ended, return code=0
+2023-12-03 20:56:03,023: stdout=
+2023-12-03 20:56:03,023: stderr=
+2023-12-03 20:56:03,069: STREAM b'IHDR' 16 13
+2023-12-03 20:56:03,069: STREAM b'IDAT' 41 65536
+2023-12-03 20:56:29,101: running "pil" in child process
+2023-12-03 20:56:29,103: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshotg49yhuzl\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:56:29,122: process was started (pid=21152)
+2023-12-03 20:56:29,872: process has ended, return code=0
+2023-12-03 20:56:29,872: stdout=
+2023-12-03 20:56:29,872: stderr=
+2023-12-03 20:56:29,930: STREAM b'IHDR' 16 13
+2023-12-03 20:56:29,931: STREAM b'IDAT' 41 65536
+2023-12-03 20:57:29,847: running "pil" in child process
+2023-12-03 20:57:29,849: command: ['C:\\Users\\sayen\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', '-m', 'pyscreenshot.cli.grab', '--filename', 'C:\\Users\\sayen\\AppData\\Local\\Temp\\pyscreenshot93nas7za\\screenshot.png', '--backend', 'pil', '--debug']
+2023-12-03 20:57:29,874: process was started (pid=3140)
+2023-12-03 20:57:30,673: process has ended, return code=0
+2023-12-03 20:57:30,673: stdout=
+2023-12-03 20:57:30,673: stderr=
+2023-12-03 20:57:30,715: STREAM b'IHDR' 16 13
+2023-12-03 20:57:30,715: STREAM b'IDAT' 41 65536
